@@ -3,6 +3,7 @@ public class Product {
 	private String product;
 	private int unitPrice;
 	private int gst;
+	
 	private int quantity;
 	private double price;
 	private double gstAmount;
